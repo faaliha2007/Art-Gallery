@@ -6,7 +6,7 @@ The project showcases multiple artworks/images arranged in two sections, with in
 👀 Live View
 
 You can view the website here:
-🔗 {     }
+🔗 https://faaliha2007.github.io/Art-Gallery/
 
 📄 Pages
 
